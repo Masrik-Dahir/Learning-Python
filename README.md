@@ -1,5 +1,8 @@
 # Learning-Python
-This repository is created to preserve the codes from the course Lrearning Python in linkedIn Learning
+This repository is created to preserve the codes from the course 'Learning Python' in linkedIn Learning
+
+Instructor:  Joe Marini
+
 Course includes:
 1. Variables and expressions, 
 2. dictionary and list, 
