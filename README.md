@@ -1,5 +1,4 @@
 # Learning-Python
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Masrik-Dahir.repoName)
 
 This repository is created to preserve the codes from the course 'Learning Python' in linkedIn Learning
 
